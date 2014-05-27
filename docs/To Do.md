@@ -2,13 +2,13 @@ To Do
 ==========================================
 
 - [ ] List of simulations.
- - [ ] Must include course syllabus
+ - [x] Must include course syllabus
  - [ ] Should be run past Neary
 - [ ] Examine source
- - [ ] Port appropriate code
- - [ ] Write appropriate scenarios as config files
- - [ ] Replace UI (Each sim should have sliders and buttons ONLY, no adding or changing powder)
-- [ ] Master UI
+ - [ ] Port appropriate code (Michael)
+ - [ ] Write appropriate scenarios as config files (Michael)
+ - [ ] Replace UI (Each sim should have sliders and buttons ONLY, no adding or changing powder) (Alex)
+- [ ] Master UI (Alex)
  - [ ] Splash screen?
  - [ ] Box with unit buttons, which open lesson button windows
  - [ ] Demos with descriptions & teaser shots
